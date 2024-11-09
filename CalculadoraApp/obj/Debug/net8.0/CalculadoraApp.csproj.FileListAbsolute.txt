@@ -1,0 +1,9 @@
+C:\Users\matheus\Desktop\github\ASP-.NET-unity-test-\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.csproj.AssemblyReference.cache
+C:\Users\matheus\Desktop\github\ASP-.NET-unity-test-\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus\Desktop\github\ASP-.NET-unity-test-\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.AssemblyInfoInputs.cache
+C:\Users\matheus\Desktop\github\ASP-.NET-unity-test-\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.AssemblyInfo.cs
+C:\Users\matheus\Desktop\github\ASP-.NET-unity-test-\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.csproj.CoreCompileInputs.cache
+C:\Users\matheus\Desktop\github\ASP-.NET-unity-test-\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matheus\Desktop\github\ASP-.NET-unity-test-\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.RazorAssemblyInfo.cache
+C:\Users\matheus\Desktop\github\ASP-.NET-unity-test-\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.RazorAssemblyInfo.cs
+C:\Users\matheus\Desktop\github\ASP-.NET-unity-test-\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.sourcelink.json
